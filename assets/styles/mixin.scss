@@ -1,0 +1,9 @@
+@mixin topbarline{
+  &::after{
+    content: '';
+    width: 100%;
+    display: block;
+    height: 4px;
+    background-color: $gray;
+  }
+}
