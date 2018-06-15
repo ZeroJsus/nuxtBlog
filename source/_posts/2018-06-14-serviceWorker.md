@@ -7,12 +7,10 @@ categories: blog
 tags: '新技术'
 ---
 
-<% for (var link in site.data.menu) { %>
-  <a href="<%= site.data.menu[link] %>"> <%= link %> </a>
-<% } %>
-
 // PWA 必须
 serviceworker 至少每24小时会进行一次更新
+
+<!--more-->
 
 {% blockquote David Levithan, Wide Awake %}
 Do not just seek happiness for yourself. Seek happiness for all. Through kindness. Through mercy.

@@ -39,3 +39,8 @@ fb_admins:
 fb_app_id:
 
 language: zh-CN
+
+# 缩略显示
+auto_excerpt:
+  enable: true
+  length: 100

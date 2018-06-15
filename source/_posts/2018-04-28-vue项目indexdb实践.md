@@ -14,6 +14,8 @@ tags: '迭代'
     存储数据结构复杂时:
     indexDB(支持web Worker) 事务型数据库 异步操作访问
 
+<!--more-->    
+
 二、类库选择
     根据mdn推荐 一共三种
     localForage 最优不解释

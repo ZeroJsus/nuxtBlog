@@ -47,6 +47,10 @@ shrink-to-fit // 自适应宽度
 
 pwa技术 --> 目前支持很尴尬 未来5年替代 electron技术
 
-查数估-->当前h5页面进行本地的优化 成为一个h5单独页面在本地 可以通过请求进行页面的更新 带下拉刷新功能 是更新的查数估的首页 参考之前的首页进行开发
+(todo)查数估-->当前h5页面进行本地的优化 成为一个h5单独页面在本地 可以通过请求进行页面的更新 带下拉刷新功能 是更新的查数估的首页 参考之前的首页进行开发
 
-查数估移动端壳(兴趣项目)-->参考hubuild进行android以及ios的壳开发
+(todo)查数估移动端壳(兴趣项目)-->参考hubuild进行android以及ios的壳开发
+
+(todo)[stylus复习](http://www.zhangxinxu.com/jq/stylus/)
+
+(todo)新增nginx一个node服务端
