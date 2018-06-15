@@ -6,7 +6,7 @@ categories: blog
 tags: '知识周报'
 ---
 
-github pages页面静态页面单独部署是部署在gh-pages分支下？
+github pages页面静态页面单独部署是部署在gh-pages分支下-->自行选择分支,选择一次之后　无法再次对分支内容进行修改
 
 c3 css世界 以及 css魔法复习
 
@@ -19,7 +19,7 @@ c3 css世界 以及 css魔法复习
 4.  android4.4以下版本 还是使用flexible+postcss2rem 
 5.  使用vw vh头图可能会与上下左右的页面有1px的偏差(造成图片偏差的原因 应该为ui给的图片 与设计图上的图片 比例不相同)
 
-lib-flexible 源码解析?
+lib-flexible 源码解析　-->　通过计算转化为vw的方式来进行兼容性的扩展是否有效？
 
 document.this --> 在对应js函数的开头位置 进行使用才能进行标记
 
@@ -47,4 +47,6 @@ shrink-to-fit // 自适应宽度
 
 pwa技术 --> 目前支持很尴尬 未来5年替代 electron技术
 
-查数估-->当前h5页面进行本地的优化
+查数估-->当前h5页面进行本地的优化 成为一个h5单独页面在本地 可以通过请求进行页面的更新 带下拉刷新功能 是更新的查数估的首页 参考之前的首页进行开发
+
+查数估移动端壳(兴趣项目)-->参考hubuild进行android以及ios的壳开发

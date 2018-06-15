@@ -3,7 +3,7 @@ layout: post
 title: 'webWorker入门'
 date: 2018-6-7 23:00:00 +0800
 categories: blog
-tags: '迭代技术'
+tags: '迭代'
 ---
 
 webWorker是将脚本代码放置与浏览器后台线程进行执行
