@@ -23,4 +23,4 @@ bootstrap table 快速构建分页表格带查询等功能的插件
 
 现在前端VR开发已经 趋于成熟
 
-WebGL WebWorker(已经实现) WebRTC(不常用，视频直播等网站) ServerWorker(chrome可以实现 其余浏览器支持率低下) Promise(已实现) WebComponent
+WebGL WebWorker(已经实现) WebRTC(不常用，视频直播等网站) ServerWorker(chrome可以实现 其余浏览器支持率低下) Promise(已实现) WebComponent WebVR 与 WebAR

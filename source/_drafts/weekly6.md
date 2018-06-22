@@ -11,13 +11,13 @@ document.execCommand 例如可以实现快速将选中的数据复制到粘贴�
 
 window.getSelection() 获取当前鼠标选中的内容
 
--webkit-background-clip: text; 将背景裁剪为文字的样式 只有chrome支持？ --> can I use 支持率较好
+-webkit-background-clip: text; 将背景裁剪为文字的样式 只有chrome支持？ --> can I use 支持率较好 --> 与不同浏览器的属性前缀相关
 
 p标签的限制对应行数 超出省略 
 >p{
 >  display:-webkit-box;
 >  -webkit-box-orient: vertical;
->  -webkit-line-clamp:3;
+>  -webkit-line-clamp:3; --> 兼容性尴尬 不支持firefox
 >  overflow:hidden;
 >}
 
