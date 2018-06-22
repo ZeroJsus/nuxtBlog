@@ -13,7 +13,6 @@ px2vw插件
 jsb 以及 ts
 vue extend
 gitlab迁移？ ci?
-WebVR 与 WebAR
 
 [PWA简单案例入门](https://zhuanlan.zhihu.com/p/25459319)
 使用ngrok和http-server组件构建内网穿透访问的服务器(支持https) --> hight level
