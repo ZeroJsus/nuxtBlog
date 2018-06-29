@@ -13,3 +13,12 @@ tags: '知识周报'
 JSON.stringify(value[, replacer [, space]]) --> value(需要被序列化的值) replacer(argument-->value, 对序列化过程中的每个参数进行处理 返回undefined 会取消这个参数的序列化, 函数不会被转换, 其他对应原始类型的数据会被转换成对应数据的字符串形式
 
 page136
+
+收到消息之后要及时做反馈进行响应 聊天要注意效率 把握重点内容
+
+月度
+1. c3 world
+2. px2vw插件
+3. jsb 以及 ts
+4.vue extend
+5. 做反馈 做反馈 做反馈 聊天的效率？
