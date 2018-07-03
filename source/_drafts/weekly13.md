@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'weekly12'
+title: 'weekly13'
 date: 2018-07-01 08:00:00 +0800
 categories: blog
 tags: '知识周报'
@@ -11,8 +11,6 @@ tags: '知识周报'
 一切页面所属的功能都可以用Js进行实现, Dom, Bom, Css渲染树
 
 JSON.stringify(value[, replacer [, space]]) --> value(需要被序列化的值) replacer(argument-->value, 对序列化过程中的每个参数进行处理 返回undefined 会取消这个参数的序列化, 函数不会被转换, 其他对应原始类型的数据会被转换成对应数据的字符串形式
-
-page136
 
 收到消息之后要及时做反馈进行响应 聊天要注意效率 把握重点内容
 
