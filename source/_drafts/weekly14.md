@@ -17,3 +17,5 @@ page 154
 [雅虎军规！！！](https://mp.weixin.qq.com/s/B5WpCcnfAdQiuhYgL_B3_g)
 
 [浏览器图片识别](https://blog.csdn.net/guleileo/article/details/80891522)
+
+[大数据展示](demo.finebi.com/)
