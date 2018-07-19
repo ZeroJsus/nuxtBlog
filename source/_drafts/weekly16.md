@@ -43,4 +43,4 @@ end-user web browser preferences are respected
 10、复盘：查漏、优化、积累、反推（回看效果图和产品文档）
 11、本质：解决的是问题、实现的是业务、交付的是人品、回报的是自己
 
-page 49 计算的本质
+page 92 计算的本质
