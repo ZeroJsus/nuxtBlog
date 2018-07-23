@@ -44,3 +44,5 @@ end-user web browser preferences are respected
 11、本质：解决的是问题、实现的是业务、交付的是人品、回报的是自己
 
 page 92 计算的本质
+
+flutter 构建接近原生的app
