@@ -17,3 +17,9 @@ pjax是一个ajax加pushState的网站
 二级菜单栏(左侧竖直菜单) height:40px;line-height:40px;
 banner(一级菜单栏) height:60px;line-height:60px;
 字体 一般为12~16号字体
+
+个人介绍 团队介绍 详细开发计划
+
+Betternet Free VPN ios翻墙
+
+[vpn](https://nordzh.site/?gclid=EAIaIQobChMI3KCh5ta-3AIV5TxgCh1IyAFgEAEYASAAEgJaofD_BwE)
