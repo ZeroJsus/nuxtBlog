@@ -23,3 +23,5 @@ banner(一级菜单栏) height:60px;line-height:60px;
 Betternet Free VPN ios翻墙
 
 [vpn](https://nordzh.site/?gclid=EAIaIQobChMI3KCh5ta-3AIV5TxgCh1IyAFgEAEYASAAEgJaofD_BwE)
+
+weixin://dl/business/?ticket= 微信自定义二维码生成得ticket地址
