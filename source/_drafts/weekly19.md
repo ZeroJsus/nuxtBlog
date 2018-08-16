@@ -15,3 +15,5 @@ pre中元素自动换行 white-space: pre-wrap
 document.currentScript ==> 在script标签中获取当前的脚本
 document.scripts ==> 获取当前页面所有script标签属性
 Element.currentStyle ==> 非标准样式方法 会被替代
+
+使用js协议跳转微信 a[href="weixin://"]

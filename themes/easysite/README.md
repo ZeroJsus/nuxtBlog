@@ -1,3 +1,8 @@
+#操作步骤
+1. hexo s 开启hexo服务器进行测试
+2. hexo g 生成资源文件
+3. hexo d 将资源文件部署到云端
+
 # Landscape
 
 A brand new default theme for [Hexo].

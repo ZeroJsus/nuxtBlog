@@ -109,4 +109,4 @@ deploy:
   type: git
   repo: https://github.com/ZeroJsus/ZeroJsus.github.io.git
   branch: master
-  message: updatemsg
+  message: ':zap:'
