@@ -6,4 +6,6 @@ categories: blog
 tags: '知识周报'
 ---
 
-自己构建一套后台系统
+[expo-->一套react native构建的移动端系统](https://expo.io/learn)
+
+所谓优秀的业务系统是能保证7*24小时完美解决业务需求
